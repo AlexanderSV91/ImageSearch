@@ -1,6 +1,7 @@
-package com.example.imagesearch
+package com.example.imagesearch.ui
 
 import androidx.appcompat.app.AppCompatActivity
+import com.example.imagesearch.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
